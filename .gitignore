@@ -1,0 +1,6 @@
+﻿
+*.lnk
+.env
+.env.production
+.DS_Store
+desktop.ini
